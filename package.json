@@ -1,0 +1,14 @@
+{
+  "name": "warung-app",
+  "version": "1.0.0",
+  "description": "Aplikasi Warung Sederhana dengan Node.js dan Firestore",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.2.0"
+  }
+}
